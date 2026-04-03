@@ -5,11 +5,11 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=22C55E&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React+%7C+Node.js+Developer;IoT+Systems+Builder;Building+Real+World+Projects;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=22C55E&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Java+%7C+React+%7C+Node.js;Problem+Solver+%7C+DSA+Enthusiast;Building+Scalable+Web+Apps;Exploring+System+Design"/>
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420"/>
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@
 
 🔧 Interested in **IoT systems & real-world tech solutions**
 
-📚 Currently learning **System Design • Data Engineering • Advanced DSA**
+📚 Currently learning **System Design • Advanced DSA**
 
 🎯 Goal: **Build impactful products that solve real-world problems**
 
@@ -52,7 +52,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,js,html,css,vite,git,github,python,mysql,mongodb,tailwind&perline=7" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,js,html,css,vite,git,github,python,mysql,mongodb,tailwind,bootstrap,materialui,redux,java,vercel,vscode,&perline=7" />
 
 </p>
 

@@ -1,16 +1,255 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mayank Mittal</h1>
 
-<!--
-**mayank30092/mayank30092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+🚀 Full Stack Developer • React • Node.js • IoT Builder
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=22C55E&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React+%7C+Node.js+Developer;IoT+Systems+Builder;Building+Real+World+Projects;Always+Learning+New+Technologies"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+</p>
+
+<p align="center">
+
+<a href="https://portfolio-lake-nine-37.vercel.app">
+<img src="https://img.shields.io/badge/🌐 Portfolio-Visit-success?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/mayank30092">
+<img src="https://img.shields.io/badge/GitHub-mayank30092-181717?logo=github&style=for-the-badge"/>
+</a>
+
+<a href="https://linkedin.com/in/mayankmittal30092">
+<img src="https://img.shields.io/badge/LinkedIn-Mayank%20Mittal-0077B5?logo=linkedin&style=for-the-badge"/>
+</a>
+
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mayank30092&style=for-the-badge&color=brightgreen"/>
+</p>
+
+---
+
+# 🚀 About Me
+
+💻 Passionate **Full Stack Developer**
+
+⚡ Building scalable **React + Node.js applications**
+
+🔧 Interested in **IoT systems & real-world tech solutions**
+
+📚 Currently learning **System Design • Data Engineering • Advanced DSA**
+
+🎯 Goal: **Build impactful products that solve real-world problems**
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,js,html,css,vite,git,github,python,mysql,mongodb,tailwind&perline=7" />
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🌐 Portfolio Website
+
+Modern developer portfolio showcasing projects, skills and experience.
+
+**Key Features**
+
+✔ Responsive React UI  
+✔ Backend contact form with Node.js  
+✔ Email integration using Nodemailer  
+
+**Tech Stack**
+
+<p>
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat"/>
+
+</p>
+
+🔗 **Live Demo**  
+https://portfolio-lake-nine-37.vercel.app
+
+---
+
+## 🌌 UniVerse – College Event Management Platform
+
+A **MERN platform** that manages college events and student registrations.
+
+**Key Features**
+
+✔ JWT authentication (Student/Admin roles)  
+✔ Event creation & management  
+✔ One-click registrations  
+✔ Auto-generated certificates  
+✔ Admin dashboard  
+
+**Tech Stack**
+
+<p>
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb"/>
+<img src="https://img.shields.io/badge/JWT-black?style=flat"/>
+
+</p>
+
+🌐 **Live Demo**  
+https://universe-ijwi.onrender.com  
+
+💻 **Repository**  
+https://github.com/mayank30092/UniVerse
+
+---
+
+## 🍽 ShareBite – Food Redistribution Platform
+
+A platform connecting restaurants with surplus food to NGOs and individuals.
+
+**Key Features**
+
+✔ Food donation posting  
+✔ Real-time claiming system  
+✔ Map-based pickup locations  
+✔ Role-based dashboards  
+
+**Tech Stack**
+
+<p>
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb"/>
+<img src="https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet"/>
+
+</p>
+
+🎥 **Demo**  
+https://sharebite-d393.onrender.com
+
+---
+
+## 🍳 Smart Recipe Generator
+
+A smart AI-powered recipe generator using ingredients or images.
+
+**Key Features**
+
+✔ Ingredient-based recipe search  
+✔ Image recognition using Clarifai AI  
+✔ Smart filters & sorting  
+✔ Save favourite recipes  
+
+**Tech Stack**
+
+<p>
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat&logo=tailwind-css"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express"/>
+<img src="https://img.shields.io/badge/Clarifai-FF6B6B?style=flat"/>
+
+</p>
+
+🌐 **Live Demo**  
+https://smart-recipe-generator-amber.vercel.app  
+
+💻 **Repository**  
+https://github.com/mayank30092/smart-recipe-generator
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mayank30092&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank30092&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=mayank30092&theme=tokyonight"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mayank30092&theme=algolia&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mayank30092&theme=react-dark"/>
+</p>
+
+---
+
+# 📊 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Mayankmittal3009?theme=dark&font=baloo&ext=contest"/>
+</p>
+
+---
+
+# ⚡ Currently Working On
+
+🚗 **IoT Smart Parking System** (ESP32 + React Dashboard)  
+
+📚 **Learning System Design & Advanced DSA**
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://portfolio-lake-nine-37.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-22C55E?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/mayankmittal30092">
+<img src="https://img.shields.io/badge/LinkedIn-Mayank%20Mittal-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/mayank30092">
+<img src="https://img.shields.io/badge/GitHub-Mayank%20Mittal-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+⭐ <b>Always Building • Always Learning • Always Improving</b>
+</p>

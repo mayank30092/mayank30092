@@ -67,18 +67,16 @@ Modern developer portfolio showcasing projects, skills and experience.
 **Key Features**
 
 ✔ Responsive React UI  
-✔ Backend contact form with Node.js  
-✔ Email integration using Nodemailer  
+✔ Serverless contact form
+✔ Email integration using Resend 
 
 **Tech Stack**
 
 <p>
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=flat"/>
+<img src="https://img.shields.io/badge/TailwindCSS-20232A?style=flat&logo=tailwind-css"/>
 
 </p>
 
@@ -107,6 +105,7 @@ A **MERN platform** that manages college events and student registrations.
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js"/>
 <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb"/>
+<img src="https://img.shields.io/badge/TailwindCSS-20232A?style=flat&logo=tailwind-css"/>
 <img src="https://img.shields.io/badge/JWT-black?style=flat"/>
 
 </p>
@@ -139,6 +138,7 @@ A platform connecting restaurants with surplus food to NGOs and individuals.
 <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb"/>
 <img src="https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet"/>
+<img src="https://img.shields.io/badge/TailwindCSS-20232A?style=flat&logo=tailwind-css"/>
 
 </p>
 
@@ -163,7 +163,7 @@ A smart AI-powered recipe generator using ingredients or images.
 <p>
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat&logo=tailwind-css"/>
+<img src="https://img.shields.io/badge/TailwindCSS-20232A?style=flat&logo=tailwind-css"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js"/>
 <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express"/>
 <img src="https://img.shields.io/badge/Clarifai-FF6B6B?style=flat"/>

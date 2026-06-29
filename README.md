@@ -98,6 +98,40 @@ https://github.com/mayank30092/job-board
 
 ---
 
+## 🚗 ParkLith – Smart IoT Parking System
+
+An **IoT-powered smart parking system** that detects parking slot availability using ultrasonic sensors and updates the status in real time on a web dashboard. Integrates **ESP32 hardware, sensor detection, a REST backend, and a React dashboard** into one end-to-end monitoring solution.
+
+**Key Features**
+
+✔ Real-time parking slot detection via ultrasonic sensors  
+✔ ESP32 microcontroller for sensor data transmission over WiFi  
+✔ Live web dashboard for slot monitoring, accessible from any device  
+✔ On-site LCD (I2C) display showing available slots  
+✔ Fast REST API communication between ESP32 and backend  
+✔ MongoDB-backed slot status storage  
+
+**Tech Stack**
+
+<p>
+
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb"/>
+
+</p>
+
+🌐 **Live Demo**  
+https://parklith.vercel.app
+
+💻 **Repository**  
+https://github.com/mayank30092/parklith
+
+---
+
 ## 🌐 Portfolio Website
 
 Modern developer portfolio showcasing projects, skills and experience.

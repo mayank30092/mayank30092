@@ -52,13 +52,52 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,js,html,css,vite,git,github,python,mysql,mongodb,tailwind,bootstrap,materialui,redux,java,vercel,vscode,&perline=7" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,redis,js,html,css,vite,git,github,python,mysql,mongodb,tailwind,bootstrap,materialui,redux,java,vercel,vscode,&perline=7" />
 
 </p>
 
 ---
 
 # 🚀 Featured Projects
+
+## 💼 JobBoard – Full-Stack Job Application Platform
+
+A production-style **MERN job board** where recruiters post jobs and track applicants, and job seekers browse, search, and apply with resume uploads — built with real system design components, not just CRUD.
+
+**Key Features**
+
+✔ JWT authentication with role-based access (Applicant/Recruiter)  
+✔ Resume upload & storage via Cloudinary  
+✔ Redis caching (cache-aside pattern) with auto-invalidation  
+✔ Tiered rate limiting on auth, applications, and global traffic  
+✔ Search, filters (type/experience/salary), and infinite scroll pagination  
+✔ Save/bookmark jobs  
+✔ Email notifications on application status updates  
+✔ Recruiter analytics dashboard — MongoDB aggregation pipelines + Recharts  
+✔ Database-level duplicate-application prevention  
+
+**Tech Stack**
+
+<p>
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary"/>
+<img src="https://img.shields.io/badge/TailwindCSS-20232A?style=flat&logo=tailwind-css"/>
+<img src="https://img.shields.io/badge/JWT-black?style=flat"/>
+
+</p>
+
+🌐 **Live Demo**  
+https://job-board-three-drab.vercel.app
+
+💻 **Repository**  
+https://github.com/mayank30092/job-board
+
+---
 
 ## 🌐 Portfolio Website
 
@@ -202,8 +241,6 @@ https://github.com/mayank30092/smart-recipe-generator
 ---
 
 # ⚡ Currently Working On
-
-🚗 **IoT Smart Parking System** (ESP32 + React Dashboard)  
 
 📚 **Learning System Design & Advanced DSA**
 

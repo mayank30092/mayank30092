@@ -73,7 +73,6 @@ A production-style **MERN job board** where recruiters post jobs and track appli
 ✔ Search, filters (type/experience/salary), and infinite scroll pagination  
 ✔ Save/bookmark jobs  
 ✔ Email notifications on application status updates  
-✔ Recruiter analytics dashboard — MongoDB aggregation pipelines + Recharts  
 ✔ Database-level duplicate-application prevention  
 
 **Tech Stack**
